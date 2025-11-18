@@ -1,9 +1,9 @@
 using System;
 using System.Web;
 using System.Web.Http;
-using CURIOsity_API.Parsers;
+using Hallbridger_API.Parsers;
 
-namespace CURIOsity_API.Controllers
+namespace Hallbridger_API.Controllers
 {
     [RoutePrefix("api/import")]
     public class ImportController : ApiController

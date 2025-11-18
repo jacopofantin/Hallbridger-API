@@ -170,9 +170,9 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
-    <Compile Include="CURIOsity_API.Controllers\ImportController.cs" />
-    <Compile Include="CURIOsity_API.Models\CuriosityDataModel.cs" />
-    <Compile Include="CURIOsity_API.Parsers\TxtParser.cs" />
+    <Compile Include="Hallbridger_API.Controllers\ImportController.cs" />
+    <Compile Include="Hallbridger_API.Models\CurioDataModel.cs" />
+    <Compile Include="Hallbridger_API.Parsers\TxtParser.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

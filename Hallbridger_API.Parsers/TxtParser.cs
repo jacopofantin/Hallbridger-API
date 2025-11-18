@@ -1,16 +1,16 @@
-using CURIOsity_API.Models;
+using Hallbridger_API.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace CURIOsity_API.Parsers
+namespace Hallbridger_API.Parsers
 {
     public static class TxtParser
     {
-        public static CuriosityDataModel Parse(Stream stream)
+        public static CurioDataModel Parse(Stream stream)
         {
-            var result = new CuriosityDataModel
+            var result = new CurioDataModel
             {
                 StagecraftEquipmentPositions = new Dictionary<string, int>(),
                 LeftPanelApertures = new Dictionary<string, int>(),
