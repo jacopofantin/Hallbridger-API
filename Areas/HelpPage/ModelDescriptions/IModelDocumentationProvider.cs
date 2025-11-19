@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace CURIOsity_API.Areas.HelpPage.ModelDescriptions
+namespace Hallbridger_API.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

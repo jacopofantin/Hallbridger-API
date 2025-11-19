@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace CURIOsity_API.Areas.HelpPage.ModelDescriptions
+namespace Hallbridger_API.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

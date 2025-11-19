@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace CURIOsity_API
+namespace Hallbridger_API
 {
     public class FilterConfig
     {

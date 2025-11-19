@@ -7,7 +7,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace CURIOsity_API
+namespace Hallbridger_API
 {
     public class WebApiApplication : System.Web.HttpApplication
     {

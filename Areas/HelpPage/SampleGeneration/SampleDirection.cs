@@ -1,4 +1,4 @@
-namespace CURIOsity_API.Areas.HelpPage
+namespace Hallbridger_API.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

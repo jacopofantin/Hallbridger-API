@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace CURIOsity_API.Areas.HelpPage
+namespace Hallbridger_API.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

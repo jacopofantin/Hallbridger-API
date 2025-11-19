@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace CURIOsity_API.Areas.HelpPage.ModelDescriptions
+namespace Hallbridger_API.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

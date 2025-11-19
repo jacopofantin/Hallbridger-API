@@ -1,6 +1,6 @@
 using System;
 
-namespace CURIOsity_API.Areas.HelpPage.ModelDescriptions
+namespace Hallbridger_API.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

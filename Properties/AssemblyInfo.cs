@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen zu einer Assembly werden durch Folgendes gesteuert:
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die
 // Assemblyinformationen zu ändern.
-[assembly: AssemblyTitle("CURIOsity_API")]
+[assembly: AssemblyTitle("Hallbridger_API")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CURIOsity_API")]
+[assembly: AssemblyProduct("Hallbridger_API")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

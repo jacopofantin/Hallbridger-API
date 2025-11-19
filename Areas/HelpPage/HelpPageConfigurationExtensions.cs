@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using CURIOsity_API.Areas.HelpPage.ModelDescriptions;
-using CURIOsity_API.Areas.HelpPage.Models;
+using Hallbridger_API.Areas.HelpPage.ModelDescriptions;
+using Hallbridger_API.Areas.HelpPage.Models;
 
-namespace CURIOsity_API.Areas.HelpPage
+namespace Hallbridger_API.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

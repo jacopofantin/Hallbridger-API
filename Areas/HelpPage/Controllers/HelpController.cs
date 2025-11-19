@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using CURIOsity_API.Areas.HelpPage.ModelDescriptions;
-using CURIOsity_API.Areas.HelpPage.Models;
+using Hallbridger_API.Areas.HelpPage.ModelDescriptions;
+using Hallbridger_API.Areas.HelpPage.Models;
 
-namespace CURIOsity_API.Areas.HelpPage.Controllers
+namespace Hallbridger_API.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

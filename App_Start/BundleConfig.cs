@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace CURIOsity_API
+namespace Hallbridger_API
 {
     public class BundleConfig
     {

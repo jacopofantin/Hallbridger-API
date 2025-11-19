@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace CURIOsity_API.Areas.HelpPage
+namespace Hallbridger_API.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using CURIOsity_API.Areas.HelpPage.ModelDescriptions;
+using Hallbridger_API.Areas.HelpPage.ModelDescriptions;
 
-namespace CURIOsity_API.Areas.HelpPage.Models
+namespace Hallbridger_API.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.
